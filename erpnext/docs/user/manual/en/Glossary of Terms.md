@@ -1,6 +1,7 @@
 # this is a stubb of a to be build "Glossary of Terms" for ERPNext
 
 The intention is to build a Glossary of terms (i.e. 'Site', 'Form', etc.) and what they exactly mean in the logic of ERPNext
+I will populate it as I go along discovering (and understanding ERPNext). Hopefully at some point others might add Definitions or correct/clarify this existing Glossary
 
 ===================================================
 
