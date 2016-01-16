@@ -8,4 +8,6 @@ The intention is to build a Glossary of terms (i.e. site, Form view, etc.) and w
 
 **Like** (in Filter to filter list items) - same meaning as "Contains" (i.e you put in the term 'SIN' the Filter will find Sales Invoices (SINV). "Like" has no ability to find misstyped terms though. It will not find 'tasks', when searching for 'taks'
 
+**Equals** (in Filter to filter list items) - will Filter exactly as what is put in a Filter term. Filter term 'SIN' nor 'SIN*' will find Sales Invoice (SINV)
+
 **Filter** - [add definition here]
