@@ -11,8 +11,8 @@ It is to be decided at what point it will be serious, big, good enough to do a P
 
 **Site** - [add definition here]
 
-**Like** (in Filter to filter list items) - same meaning as "Contains" (i.e Filter term 'SIN' will find Sales Invoices (SINV). "Like" has no ability to find misstyped terms though. It will not find 'tasks', when searching for 'taks'
+**Like** (in Filter to filter list items) - same meaning as "Contains" (i.e Filter term 'SIN' will find Sales Invoices (SINV). "Like" has no ability to find misstyped terms though. It will not find 'tasks', when searching for 'taks'. 'Like' is not case sensitive
 
-**Equals** (in Filter to filter list items) - will Filter the exact term which is put in. (i.e. Filter term 'SINV-0001' will find one specific Sales Invoice (SINV-0001). Neither 'SINV' nor 'SIN*' will find any Sales Invoice (SINV-xxxxx)
+**Equals** (in Filter to filter list items) - will Filter the exact term which is put in. (i.e. Filter term 'SINV-0001' will find one specific Sales Invoice (SINV-0001). Neither 'SINV' nor 'SIN*' will find any Sales Invoice (SINV-xxxxx). 'Equals' is not case sensitive
 
 **Filter** - [add definition here]
