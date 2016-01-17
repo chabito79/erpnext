@@ -18,3 +18,11 @@ It is to be decided at what point it will be serious, big, good enough to do a P
 **Filter** - [add definition here]
 
 **Rate** (as in Sales Order, Invoices, ...) - the price per Unit sold/purchased
+
+**frappe** - the 'framework' which ERPNext is build upon [needs more knowledgeble explanation what a framework is maybe]
+
+**Frappe Technologies Pvt. Ltd.** - is the Company that has originally developed ERPNext and the frappe framework. I assume it is also the copyright owner of both.
+
+**framework** - [add definition here]
+
+**ERPNext Foundation** - is a yet to be founded Foundation that in order to guarantuee a continued Open Source Nature shall overtake governance of the ERPNext and frappe Software. [question: will it become the copyright owner as well?] [needs more specification definetly]
