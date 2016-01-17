@@ -28,3 +28,6 @@ It is to be decided at what point it will be serious, big, good enough to do a P
 **framework** - [add definition here]
 
 **ERPNext Foundation** - is a yet to be founded Foundation that, in order to guarantuee the Open Source Nature not being changed, shall overtake governance of the ERPNext and frappe Software. [question: will it become the copyright owner as well?] [needs more specification definetly]
+
+**Submit** - by submitting a Document (Sales Order, Invoices, Jounal Vouchers [probably also Warehouse operations which I have not dealt with yet], etc.) it changes from being a draft (which actually does not yet have any impact on any values (like sum of money in a bank account, or Stock level of an Item) to an actual entry to the system which actual records something. 
+Once a Document has been submitted it still can be withdrawn (Cancel) and adjusted (Amend) but these changes or cancellations are being recorded by ERPNext. If you 'Cancel' a submitted Sales Invoice (SINV-0001), 'Amend' it and re-submit this Amended version it will appear as SINV-0001-1 in your records. In order to be able to retrace such a change or cancellation the original document (SINV-0001 in our example here) will still be existing in a 'cancelled' state. It's value do not add up to the actual numbers though.
