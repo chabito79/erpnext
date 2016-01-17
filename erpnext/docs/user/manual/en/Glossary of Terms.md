@@ -27,4 +27,4 @@ It is to be decided at what point it will be serious, big, good enough to do a P
 
 **framework** - [add definition here]
 
-**ERPNext Foundation** - is a yet to be founded Foundation that in order to guarantuee a continued Open Source Nature shall overtake governance of the ERPNext and frappe Software. [question: will it become the copyright owner as well?] [needs more specification definetly]
+**ERPNext Foundation** - is a yet to be founded Foundation that, in order to guarantuee the Open Source Nature not being changed, shall overtake governance of the ERPNext and frappe Software. [question: will it become the copyright owner as well?] [needs more specification definetly]
