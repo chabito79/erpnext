@@ -37,6 +37,15 @@ It is to be decided at what point it will be serious, big, good enough to do a P
 **Submit** - by submitting a Document (Sales Order, Invoices, Jounal Vouchers [probably also Warehouse operations which I have not dealt with yet], etc.) it changes from being a draft (which actually does not yet have any impact on any values (like sum of money in a bank account, or Stock level of an Item) to an actual entry to the system which actual records something. 
 Once a Document has been submitted it still can be withdrawn (Cancel) and adjusted (Amend) but these changes or cancellations are being recorded by ERPNext. If you 'Cancel' a submitted Sales Invoice (SINV-0001), 'Amend' it and re-submit this Amended version it will appear as SINV-0001-1 in your records. In order to be able to retrace such a change or cancellation the original document (SINV-0001 in our example here) will still be existing in a 'cancelled' state. It's value do not add up to the actual numbers though.
 
-**Amend** - [add definition here]
+**Cancel** - you can 'cancel' a submitted document which means that it's impact on your system is being 'withdrawn'. If you cancel a 'Journal Voucher' for example the Voucher will still exist as a Document, but there will be now accounting entries in your accounts.
 
-**Cancel** - [add definition here]
+**Amend** - to change or adjust a cancelled document, so a correct Version of it can be submitted again. The original Document will continue to exist for traceablility reason. The Amended version will be named like JV-00001-1 (assuming the orignal (cancelled) Document was named JV-00001)
+
+**Journal Voucher** - [add definition here]
+
+**Sales Invoice** - [add definition here]
+
+**Purchase Invoice** - has the same logic/functionality as a 'Sales Invoice'. the differnce being it is issued for Purchase frmo your Suppliers, so you have to pay money in order to receive goods (Items)
+
+
+
