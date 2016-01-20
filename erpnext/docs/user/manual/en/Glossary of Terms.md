@@ -21,6 +21,8 @@ It is to be decided at what point it will be serious, big, good enough to do a P
 
 **frappe** - the 'framework' which ERPNext is build upon [needs more knowledgeble explanation what a framework is maybe]
 
+**App** - [add deinition here]
+
 **bench** - [add definition here]
 
 **Frappe Technologies Pvt. Ltd.** - is the Company that has originally developed ERPNext and the frappe framework. I assume it is also the copyright owner of both.
