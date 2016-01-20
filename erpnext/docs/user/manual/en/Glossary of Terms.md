@@ -9,7 +9,7 @@ It is to be decided at what point it will be serious, big, good enough to do a P
 
 **Glossary of Terms**
 
-**Site** - [add definition here]
+**Site** - is something like the 'frame' for and ERPNext/frappe installation. It contains the database, backups, Apps. If one wanted to run multiple instances of ERPNext he/she would setup several 'sites'
 
 **Like** (in Filter to filter list items) - same meaning as "Contains" (i.e Filter term 'SIN' will find Sales Invoices (SINV). "Like" has no ability to find misstyped terms though. It will not find 'tasks', when searching for 'taks'. 'Like' is not case sensitive
 
@@ -19,15 +19,18 @@ It is to be decided at what point it will be serious, big, good enough to do a P
 
 **Rate** (as in Sales Order, Invoices, ...) - the price per Unit sold/purchased
 
-**frappe** - the 'framework' which ERPNext is build upon [needs more knowledgeble explanation what a framework is maybe]
+**Frappe Framework** - the Web Application ERPNext is build upon. It is delpoyable on any *nix Operating System (Linux, Unix, BSD, MacOS) [needs more knowledgeble explanation maybe]
 
-**App** - [add deinition here]
+
+**framework** - [add definition here]
+
+**App** - a user programm which provides functionality (i.e. Accounting, CRM,...). An 'App' in this context has an API so it can connect to other apps
+
+**API** - [add definition here]
 
 **bench** - [add definition here]
 
 **Frappe Technologies Pvt. Ltd.** - is the Company that has originally developed ERPNext and the frappe framework. I assume it is also the copyright owner of both.
-
-**framework** - [add definition here]
 
 **ERPNext Software Foundation** - is a yet to be started Foundation that, in order to guarantuee the Open Source Nature not being changed, shall overtake governance of the ERPNext and frappe Software. [question: will it become the copyright owner as well?] [needs more specification definetly]
 
