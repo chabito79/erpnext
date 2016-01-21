@@ -45,7 +45,7 @@ Once a Document has been submitted it still can be withdrawn (Cancel) and adjust
 
 **Sales Invoice** - [add definition here]
 
-**Purchase Invoice** - has the same logic/functionality as a 'Sales Invoice'. the differnce being it is issued for Purchase frmo your Suppliers, so you have to pay money in order to receive goods (Items)
+**Purchase Invoice** - has the same logic/functionality as a 'Sales Invoice'. the differnce being it is issued for Purchase from your Suppliers, so you have to pay money in order to receive goods (Items)
 
 **Refresh** - [add definition here. should also explain difference to 'Reload']
 
