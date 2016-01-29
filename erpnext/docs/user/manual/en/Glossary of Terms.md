@@ -51,5 +51,9 @@ Once a Document has been submitted it still can be withdrawn (Cancel) and adjust
 
 **Reload** - [add definition here. should also explain difference to 'Refresh']
 
+**Developer Mode** - [add more detailed infos here]. Once you are in Developer Mode the user Administrator can see the names of the database fields while hovering over a Label in any Documents field (i.e. hovering over the "Full Name" in a Customer Form shows you the database field name (customer_name) while hovering the mouse over it
+
+
+
 
 
