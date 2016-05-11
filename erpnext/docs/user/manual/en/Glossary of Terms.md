@@ -28,7 +28,7 @@ It is to be decided at what point it will be serious, big, good enough to do a P
 
 **API** - [add definition here]
 
-**bench** - [add definition here]
+**bench** - The bench allows you to setup Frappe / ERPNext apps on your local Linux (CentOS 6, Debian 7, Ubuntu, etc) machine or a production server. You can use the bench to serve multiple frappe sites. 
 
 **Frappe Technologies Pvt. Ltd.** - is the Company that has originally developed ERPNext and the frappe framework. I assume it is also the copyright owner of both.
 
